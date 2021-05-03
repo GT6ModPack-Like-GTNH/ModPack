@@ -1,0 +1,43 @@
+{"data":
+	[
+		{
+			"name": "radiatorblock_empty",
+			"type": "rock",
+			"shape": "normal",
+			"hardness": 0.3,
+			"resistance": 3.0,
+			"harvestLevel": 1,
+			"toolType": "pickaxe",
+			"isOpaque": true,
+			"lightLevel": 0,
+			"maxStackSize": 16,
+			"drops": []
+		},
+		{
+			"name": "gearbox",
+			"type": "rock",
+			"shape": "normal",
+			"hardness": 0.3,
+			"resistance": 3.0,
+			"harvestLevel": 1,
+			"toolType": "pickaxe",
+			"isOpaque": true,
+			"lightLevel": 0,
+			"maxStackSize": 16,
+			"drops": []
+		},
+		{
+			"name": "voltageinsulator_cake_hv",
+			"type": "rock",
+			"shape": "normal",
+			"hardness": 0.3,
+			"resistance": 3.0,
+			"harvestLevel": 3,
+			"toolType": "pickaxe",
+			"isOpaque": true,
+			"lightLevel": 0,
+			"maxStackSize": 16,
+			"drops": []
+		}
+	]
+}

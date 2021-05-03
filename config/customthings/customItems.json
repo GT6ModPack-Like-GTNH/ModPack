@@ -1,0 +1,20 @@
+{"data":
+	[
+		{
+			"name": "voltageinsulator_basedust_mv",
+			"maxStackSize": "64"
+		},
+		{
+			"name": "voltageinsulator_basedust_hv",
+			"maxStackSize": "64"
+		},
+		{
+			"name": "voltageinsulator_mv",
+			"maxStackSize": "16"
+		},
+		{
+			"name": "voltageinsulator_hv",
+			"maxStackSize": "16"
+		}
+	]
+}

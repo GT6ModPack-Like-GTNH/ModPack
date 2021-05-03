@@ -1,0 +1,27 @@
+itemGroup.tabLargerWorkbenches=LargerWorkbenches
+
+tile.workbench.0.name=Extend Crafting Table
+tile.workbench.1.name=Super Crafting Table
+tile.workbench.2.name=
+tile.workbench.3.name=
+tile.workbench.4.name=
+tile.workbench.5.name=Neo Dire Crafting Table
+tile.autoWorkbench.0.name=Extend Auto Crafting Table
+tile.autoWorkbench.1.name=Super Auto Crafting Table
+tile.autoWorkbench.2.name=
+tile.autoWorkbench.3.name=
+tile.autoWorkbench.4.name=
+tile.autoWorkbench.5.name=Neo Dire Auto Crafting Table
+
+crafting.large.tier0=Extend Crafting
+crafting.large.tier1=Super Crafting
+crafting.large.tier2=
+crafting.large.tier3=
+crafting.large.tier4=
+crafting.large.tier5=Neo Xtreme Crafting
+crafting.large.shapeless.tier0=Extend Shapeless Crafting
+crafting.large.shapeless.tier1=Super Shapeless Crafting
+crafting.large.shapeless.tier2=
+crafting.large.shapeless.tier3=
+crafting.large.shapeless.tier4=
+crafting.large.shapeless.tier5=Neo Extreme Shapeless Crafting
